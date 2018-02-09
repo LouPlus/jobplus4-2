@@ -4,4 +4,4 @@ https://www.shiyanlou.com/louplus/python
 
 ## Contributors
 * [书山压力大EE](https://github/shenjianeng123)
-* [xizhong](https://github.com/xizhongzhao)
+* [xizhong] (https://github.com/xizhongzhao)
